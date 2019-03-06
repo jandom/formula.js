@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "bessel": "^0.2.0",
-    "jStat": "^1.7.0",
+    "jStat": "jandom/jStat#csp-violation-fix",
     "numbro": "^1.11.0"
   },
   "devDependencies": {
